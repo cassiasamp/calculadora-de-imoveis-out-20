@@ -1,1 +1,1 @@
-## Arquivos de machine learning sa turma de Outubro da Awari
+## Arquivos de machine learning da turma de Outubro da Awari
